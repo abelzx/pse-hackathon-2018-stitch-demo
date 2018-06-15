@@ -1,0 +1,47 @@
+body {
+      background: url(https://theme.zdassets.com/theme_assets/39809/29197a6ae3d8231148ee0344fed6aeba9accd4d2.svg) no-repeat top left rgba(248, 250, 252, 1);
+      background-size: 100% auto;
+    }
+
+    h1 {
+      max-width: 800px;
+      font-size: 40pt;
+    }
+
+    textarea {
+      max-width: 800px;
+    }
+
+    #login,
+    #messages {
+      width: 80% height: 300px
+    }
+
+    #messages {
+      display: none
+    }
+
+    #conversations {
+      display: none
+    }
+
+    #conversations li {
+      cursor: pointer;
+      text-decoration: underline;
+    }
+
+    #call-controls {
+      display: none
+    }
+
+    #videos {
+      display: none
+    }
+
+    #self-video {
+      max-width: 250px
+    }
+
+    #conversation-video {
+      max-width: 1000px
+    }
